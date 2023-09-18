@@ -51,6 +51,10 @@ Makefile
 # Misc.
 *.log
 
+# Luna Directories
+bin/
+bin-int/
+
 # local build(s)
 build*
 
